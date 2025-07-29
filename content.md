@@ -4,10 +4,7 @@
 
 ## **DevOps and Microservices Fundamentals**
 
-**Client**: Ralph Lauren
-**Proposed by**: Mohan S – VSphere Technologies
-**Duration**: 21 Days (3 Days/Week, 3 Hours/Day = **63 Hours Total**)
-**Total Cost**: \$7,500 USD (All Inclusive)
+
 
 ---
 
@@ -56,7 +53,7 @@ To enable IT, development, and operations teams at Ralph Lauren to gain practica
 
 ---
 
-### **6. Key Benefits to Ralph Lauren**
+### **6. Key Benefits **
 
 * Enhanced deployment automation and operational efficiency
 * Preparedness for cloud-native and scalable application architectures
