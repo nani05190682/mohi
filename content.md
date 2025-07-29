@@ -1,4 +1,4 @@
-Here is the rephrased and properly formatted **DevOps and Microservices Fundamentals** syllabus proposal document:
+ **DevOps and Microservices Fundamentals** syllabus proposal document:
 
 ---
 
