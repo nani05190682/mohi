@@ -45,11 +45,6 @@ To enable IT, development, and operations teams at Ralph Lauren to gain practica
 
 ---
 
-### **5. Commercial Details**
-
-* **Total Cost**: \$7,500 USD *(includes trainer fees, course materials, and post-training support)*
-* **Payment Terms**: 50% in advance, 50% upon training completion
-* **Accepted Modes**: Bank Transfer or Online Payment
 
 ---
 
