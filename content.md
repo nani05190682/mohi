@@ -10,7 +10,7 @@
 
 ### **1. Objective**
 
-To enable IT, development, and operations teams at Ralph Lauren to gain practical expertise in modern DevOps methodologies and Microservices architecture. This training is tailored to support digital transformation and streamline infrastructure modernization.
+To enable IT, development, and operations teams at  to gain practical expertise in modern DevOps methodologies and Microservices architecture. This training is tailored to support digital transformation and streamline infrastructure modernization.
 
 ---
 
